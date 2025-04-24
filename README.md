@@ -1,0 +1,1 @@
+Check the AUser entity , AUserRepository repository etc. There are helpful few comments.  
